@@ -42,7 +42,7 @@ $config['cancel_color']   = "#60605b";
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://163.22.17.64/avm';
+$config['base_url']	= 'http://163.22.17.64/avm/';
 
 /*
 |--------------------------------------------------------------------------
