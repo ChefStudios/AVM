@@ -3,12 +3,12 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '127.0.0.1';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'LaravelYogi!1998';
 $db['default']['database'] = 'avm';
 $db['default']['dbdriver'] = 'mysql';
-$db['default']['dbprefix'] = 'mk_';
+$db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
 $db['default']['db_debug'] = TRUE;
 $db['default']['cache_on'] = FALSE;
